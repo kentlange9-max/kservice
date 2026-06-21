@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/kentlange9-max/kupdate/master/UPDATE.zip
+https://raw.githubusercontent.com/kentlange9-max/kupdate/master/UPDATE.7z
 version=9.9
